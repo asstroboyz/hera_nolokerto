@@ -1,0 +1,87 @@
+h4,
+label,
+.card-detail > .card-body > .row > .col-md-8,
+.table-detail td,
+.table > thead > tr > * {
+  color: black;
+}
+
+.table-main {
+  text-align: center;
+}
+
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+
+.table td {
+  font-size: larger;
+  color: #000; /* Warna teks hitam */
+}
+.card-header.py-3 h3 {
+  color: black; /* atau color: #000; */
+}
+.card-header h3 {
+  color: black;
+}
+.col-md-8 {
+  color: black;
+}
+h1 {
+  color: black;
+}
+.col-md-3 {
+  color: black;
+}
+/* Tambahkan aturan gaya untuk teks hitam pada elemen dengan class sessions */
+#collapseOne .sessions {
+  color: #000; /* Warna teks hitam */
+}
+
+/* Aturan gaya untuk setiap item daftar */
+#collapseOne .sessions li {
+  border-left: 2px solid #000; /* Garis kiri dengan warna hitam */
+  position: relative;
+  padding-left: 10px;
+  margin-bottom: 20px;
+}
+
+/* Aturan gaya untuk teks pada setiap item daftar */
+#collapseOne .sessions li p {
+  margin: 0;
+  font-weight: bold;
+}
+
+/* Aturan gaya untuk waktu pada setiap item daftar */
+#collapseOne .sessions li .time {
+  font-size: 14px;
+  color: #777; /* Warna abu-abu untuk waktu */
+}
+
+/* Aturan gaya untuk item daftar dengan class li-selesai */
+
+/* Aturan gaya untuk teks status pada item daftar dengan class li-selesai */
+#collapseOne .sessions li.li-selesai p:last-child {
+  color: #28a745; /* Warna hijau untuk teks status selesai */
+}
+
+/* Aturan gaya untuk item daftar dengan class li-diproses */
+
+/* Aturan gaya untuk teks stat
+/* Gaya untuk tombol kembali */
+/* Gaya untuk tombol kembali */
+a.btn-kembali {
+  padding: 10px 20px;
+  background-color: #5aa1ec;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Gaya saat tombol kembali dihover */
+a.btn-kembali:hover {
+  background-color: #c5d8ed; /* Warna latar belakang saat hover */
+  color: #fff; /* Warna teks saat hover */
+}
