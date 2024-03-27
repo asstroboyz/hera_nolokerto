@@ -1,2 +1,2 @@
-# SIPM_polda
- Sistem Informasi Pengaduan Masyarakat Polda jawa tengah
+# TOKO HERA NOLOKERTO
+Arus KAS TOKO
